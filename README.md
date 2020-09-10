@@ -1,4 +1,4 @@
-# nCov2019_Guide_Design
+# CRISPR-PACMAN guide design
 ## 1. Create a set of group-specific guide RNAs ("Horizontal pool")
 **Extract a comprehensive set of guide RNAs that target conserved regions of a fasta alignment file**
 ```
